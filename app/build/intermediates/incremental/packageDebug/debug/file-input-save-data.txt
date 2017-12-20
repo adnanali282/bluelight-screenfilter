@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Wed Dec 20 18:16:40 PKT 2017
+1.base=E\:\\Adnan\\GitHub\\bluelight-screenfilter\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+4.file=E\:\\Adnan\\GitHub\\bluelight-screenfilter\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
+1.file=E\:\\Adnan\\GitHub\\bluelight-screenfilter\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\main_activity.xml
+4.set=DEX
+2.base=E\:\\Adnan\\GitHub\\bluelight-screenfilter\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=E\:\\Adnan\\GitHub\\bluelight-screenfilter\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\resources.arsc
+count=5
+1.set=ANDROID_RESOURCE
+3.base=E\:\\Adnan\\GitHub\\bluelight-screenfilter\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=E\:\\Adnan\\GitHub\\bluelight-screenfilter\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+3.file=E\:\\Adnan\\GitHub\\bluelight-screenfilter\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+0.file=E\:\\Adnan\\GitHub\\bluelight-screenfilter\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\AndroidManifest.xml
+4.base=E\:\\Adnan\\GitHub\\bluelight-screenfilter\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
